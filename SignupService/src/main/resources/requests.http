@@ -1,0 +1,11 @@
+POST http://localhost/signUp/signUp
+Content-Type: application/json
+
+{
+  "email" : "reqenoxus2@gmail.com",
+  "name" : "Enoxus",
+  "surname" : "Edits",
+  "password": "1234567"
+}
+
+###
